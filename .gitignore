@@ -19,3 +19,9 @@ media/
 
 # OS
 .DS_Store
+
+# Docs 
+docs/_build/doctrees/
+docs/_build/html/_static/
+docs/_build/html/searchindex.js
+docs/_build/html/objects.inv
